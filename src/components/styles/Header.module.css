@@ -1,0 +1,32 @@
+/* #3A2D80  #6957E7 #A763F6 #FFFFFF*/
+
+.header_principal {
+    background: #FFFFFF;
+    background: linear-gradient(90deg, #3A2D80, #6957E7);
+}
+
+.header_principal ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.header_principal ul li {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.header_principal ul li a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header_principal ul li a:hover {
+    color: #ffc368;
+}

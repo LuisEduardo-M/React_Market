@@ -1,0 +1,25 @@
+/* #3A2D80  #6957E7 #A763F6 #FFFFFF*/
+
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* background-image: linear-gradient(rgba(98, 0, 255, 1) 100%, rgba(80, 40, 161, 1) 35%, rgba(54, 34, 167, 1) 100%); */
+    background: #FFFFFF;
+    background: linear-gradient(90deg, #3A2D80, #6957E7);
+}
+
+.header div h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 4.7rem;
+    color: #FFF;
+}
+
+.header div p {
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+    font-size: 1.3rem;
+}
