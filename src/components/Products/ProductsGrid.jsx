@@ -6,7 +6,9 @@ import data from "./assets/productsData";
 const ProductsGrid = () => {
 
     return (
+
         <div className="container">
+            <h1 className="display-4 fw-bold">Best Products.</h1>
             <div className="row">
 
                 {data.products.map(product => (
