@@ -1,0 +1,14 @@
+.footer_principal {
+    background: #FFFFFF;
+    background: linear-gradient(90deg, #3A2D80, #6957E7);
+    width: 100vw;
+}
+
+.footer_text {
+    text-align: center;
+    color: #FFF;
+}
+
+.footer_text a {
+    color: yellow;
+}
