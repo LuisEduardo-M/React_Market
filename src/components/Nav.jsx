@@ -7,7 +7,7 @@ const Nav = () => {
 
         <nav className={styles.header}>
             <div>
-                <h1>React Market.</h1>
+                <h1 className="fw-bold">React Market.</h1>
                 <p>The Best Online Market for Eletronics!</p>
             </div>
         </nav>
